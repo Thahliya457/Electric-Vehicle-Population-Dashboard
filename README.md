@@ -27,3 +27,5 @@ Tableau, Excel
 - Registrations by model year peak in 2023 at about 60.1K.
 - Almost all records are in Washington state (190,931), so the data is not nationwide.
 - 53% of vehicles have unknown CAFV eligibility, a data-quality gap.
+
+Portfolio: https://thahliya-portfolio.lovable.app
